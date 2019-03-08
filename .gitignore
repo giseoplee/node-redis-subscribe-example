@@ -1,0 +1,16 @@
+##### OSX
+.DS_Store
+*/.DS_Store
+.idea
+
+##### Server
+package-lock.json
+npm-debug.log
+
+node_modules/*
+config/env/*
+
+*/node_modules/*
+*/npm-debug.log
+*.log
+node_modules/
